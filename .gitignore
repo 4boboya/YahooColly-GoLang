@@ -1,0 +1,10 @@
+bin
+obj
+charts
+.vs/
+.sonarlint/
+.sonarqube/
+*.log
+*.exe
+*.bat
+
